@@ -1066,7 +1066,7 @@
     if-nez v0, :cond_9e
 
     .line 175
-    invoke-direct {p0}, Lcom/lufax/android/activity/HomeActivity;->b()V
+    return-void
 
     .line 177
     :cond_9e

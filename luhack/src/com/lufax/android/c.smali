@@ -31,10 +31,10 @@
     const/4 v0, 0x0
 
     .line 38
-    sput-boolean v0, Lcom/lufax/android/c;->a:Z
+    sput-boolean v1, Lcom/lufax/android/c;->a:Z
 
     .line 48
-    sput-boolean v1, Lcom/lufax/android/c;->b:Z
+    sput-boolean v0, Lcom/lufax/android/c;->b:Z
 
     .line 50
     sput-boolean v1, Lcom/lufax/android/c;->c:Z
